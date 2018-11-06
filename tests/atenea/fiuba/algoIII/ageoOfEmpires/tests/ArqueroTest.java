@@ -23,9 +23,5 @@ public class ArqueroTest {
 
     }
 
-    @Test
-    public void dummy(){
-        assertEquals(true, true);
-    }
 
 }
