@@ -11,4 +11,5 @@ notifications:
     recipients:
     - juanmanuelstraus@gmail.com
     - brandanricardo@yahoo.com.ar
+    - camila.15694@gmail.com
     on_failure: always
