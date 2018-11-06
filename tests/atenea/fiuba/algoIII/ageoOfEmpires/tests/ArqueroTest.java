@@ -3,7 +3,7 @@ package atenea.fiuba.algoIII.ageoOfEmpires.tests;
 import atenea.fiuba.algoIII.ageoOfEmpires.Arquero;
 import org.junit.Test;
 
-import static junit.framework.Assert.assertEquals;
+import static org.junit.Assert.assertEquals;
 
 
 public class ArqueroTest {
